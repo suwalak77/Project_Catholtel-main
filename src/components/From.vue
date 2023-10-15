@@ -6,11 +6,12 @@
 </template>
 
 <script>
-import From from '../components/From.vue'; // ที่อยู่ของ From.vue
+import From from './From.vue';
+// ที่อยู่ของ From.vue
 
 export default {
   components: {
-    From, // ระบุคอมโพเนนต์ที่นำเข้า
+    From: 'components' // ระบุคอมโพเนนต์ที่นำเข้า
   },
   // ... ส่วนอื่น ๆ ของ script ...
 }

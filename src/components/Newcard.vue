@@ -66,7 +66,7 @@
     
 
     const travelList=ref([
-       {name: 'เกี่ยวกับเรา',   img:"https://www.petmap.co/wp-content/uploads/2020/06/106003203_1385698631627513_4277046609756839871_o.jpg", 
+      {name: 'เกี่ยวกับเรา',   img:"https://www.petmap.co/wp-content/uploads/2020/06/106003203_1385698631627513_4277046609756839871_o.jpg", 
 
         },
     

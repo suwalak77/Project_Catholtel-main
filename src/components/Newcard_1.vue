@@ -1,23 +1,22 @@
 <template>
     <div class="box_all-mx-auto">
-    <div class="col" v-for="(n,i) in travelList" :key="n">
+    <div class="col" v-for="(n) in travelList" :key="n">
       <div class="card" style="width: fit-content; height: fit-content;" >
         <img :src="n.img" class="card-img-top">
         <div class="card-body">
           
           <h1 class="card-title">{{ n.name }}</h1>
-          <a class="btn btn-primary" @click="list_local_control(i.name, i.quantity)"> Booking </a>
+          
           <div>
-        <h4>Star cathotel<br></h4>
-          <h5>Contact person : คุณดาว<br> 
-              Address : xxxxxxxxxxx<br>  
+        <h2>Star cathotel<br></h2>
+          <h4>Contact person : คุณ xxx<br>  
               Mobile Phone : xxx-xxx-xxxx<br> 
               Line ID : @star_cathotel <br> 
               FB : Star cathotel โรงแรมแมว สตาร์แคท 
-          </h5>
+          </h4>
           </div>
-          <h6>เวลาทำการ: 8.00-19.00 <br>
-            <b>Location:</b> xxxxxxxxxxx</h6>      
+          <h5>เวลาทำการ: 8.00-19.00 <br>
+            <b>Location:</b> xxxxxxxxxxx</h5>      
         </div>
       </div>
     </div>

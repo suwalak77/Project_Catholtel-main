@@ -3,8 +3,10 @@ import HomeView from '../views/HomeView.vue'
 import mainpage from '../views/mainpage.vue'
 import Newcard from '../components/Newcard.vue'
 
+
 import Newcard_01 from '../components/newcard_1.vue';
 import Newcard_02 from '../components/newcard_2.vue';
+
 
 
 
@@ -32,6 +34,8 @@ const routes = [
     name: 'home',
     component: HomeView
   }
+ 
+
 
 ];
 

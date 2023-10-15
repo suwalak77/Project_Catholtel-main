@@ -48,7 +48,7 @@
           <div class="row flex-nowrap justify-content-between align-items-center">
             <div class="col-4 pt-1">
               <a class="link-secondary" href="#" >
-                <img src="https://i.pinimg.com/564x/c3/2c/a8/c32ca8188b7fd323fa153959d92fd453.jpg" alt="" style="height: 100px;">
+                <img src="https://i.pinimg.com/564x/c3/2c/a8/c32ca8188b7fd323fa153959d92fd453.jpg" alt="" style="height: 120px;">
               </a>
             </div>
             <div class="col-4 text-center">
@@ -62,7 +62,6 @@
           </div>
       </header>
       <hr>
-    
   </template>
   
   
@@ -76,12 +75,14 @@
   .btn.btn-sm.btn-outline-secondary{
     background-color: rgb(255, 166, 23);
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 1000;
+    width: 100px;
+    height: 30px;
   }
       
   .blog-header-logo.text-body-emphasis.text-decoration-none{
     color: rgb(255, 166, 23);
-    font-size: 35px;
+    font-size: 50px;
     font-weight: 800;
     text-decoration: #000000;
   }
