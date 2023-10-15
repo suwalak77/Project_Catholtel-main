@@ -66,11 +66,11 @@
     
 
     const travelList=ref([
-       {name: 'เกี่ยวกับเรา',   img:"https://www.petmap.co/wp-content/uploads/2020/06/106003203_1385698631627513_4277046609756839871_o.jpg", quantity: 0 ,
+       {name: 'เกี่ยวกับเรา',   img:"https://www.petmap.co/wp-content/uploads/2020/06/106003203_1385698631627513_4277046609756839871_o.jpg", 
 
         },
     
-      {name:'ห้องพักและราคา',  img:"https://chiangmaicheckin.com/pic/cover/s5.jpg", quantity: 0 ,
+      {name:'ห้องพักและราคา',  img:"http://www.catdeva.com/data/content/article/1-kofuku4.jpg", 
 
       
         },

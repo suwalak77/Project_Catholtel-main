@@ -52,7 +52,7 @@
               </a>
             </div>
             <div class="col-4 text-center">
-              <a class="blog-header-logo text-body-emphasis text-decoration-none" href="" >cat hotel</a>
+              <a class="blog-header-logo text-body-emphasis text-decoration-none" href="" >Star cathotel</a>
             </div>
             <div class="col-4 d-flex justify-content-end align-items-center">
               <a class="btn btn-sm btn-outline-secondary" href="http://localhost:5173">หน้าหลัก</a>

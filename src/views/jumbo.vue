@@ -6,6 +6,7 @@
             <p class="lead my-3"> {{ ex_box }}</p>
           </div>
     </div>
+    
   
   </template>
   

@@ -9,6 +9,8 @@ import Newcard_02 from '../components/newcard_2.vue';
 
 
 
+
+
 const shopRoutes = [
   { name: 'news_1', component: Newcard_01, shop: 'เกี่ยวกับเรา' },
   { name: 'news_2', component: Newcard_02, shop: 'ห้องพักและราคา' },
