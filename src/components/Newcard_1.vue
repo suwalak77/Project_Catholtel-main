@@ -8,7 +8,7 @@
           <h1 class="card-title">{{ n.name }}</h1>
           <a class="btn btn-primary" @click="list_local_control(i.name, i.quantity)"> Booking </a>
           <div>
-          <h4>Star cathotel<br></h4>
+        <h4>Star cathotel<br></h4>
           <h5>Contact person : คุณดาว<br> 
               Address : xxxxxxxxxxx<br>  
               Mobile Phone : xxx-xxx-xxxx<br> 
