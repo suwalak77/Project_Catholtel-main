@@ -6,9 +6,15 @@
         <div class="card-body">
           
           <h1 class="card-title">{{ n.name }}</h1>
-          
+        
           <div>
         <h2>Star cathotel<br></h2>
+        <h3>โรงแรมแมวที่ดีที่สุดในย่านเชียงใหม่
+ได้มาตรฐาน รับฝากเลี้ยงแมว ราคามิตรภาพ
+ระบบปิด ปลอดภัย ห้องแอร์ หลับสบาย
+สิ่งอำนวยความสะดวกครบครัน มีพี่เลี้ยงดูแลใกล้ชิด
+มีของเล่นมากมาย เปิดเพลงเพราะๆ ดนตรีสำหรับแมว
+ให้น้องเหมียวอารมณ์ดีทั้งวัน</h3>
           <h4>Contact person : คุณ xxx<br>  
               Mobile Phone : xxx-xxx-xxxx<br> 
               Line ID : @star_cathotel <br> 
@@ -16,7 +22,9 @@
           </h4>
           </div>
           <h5>เวลาทำการ: 8.00-19.00 <br>
-            <b>Location:</b> xxxxxxxxxxx</h5>      
+            <b>Location:</b> xxxxxxxxxxx</h5>
+            
+            
         </div>
       </div>
     </div>
@@ -58,6 +66,13 @@ border-radius: 60px;
 }
 .btn.btn-primary{
 background-color: rgb(61, 134, 216);
+}
+.card{
+justify-content: center;
+align-items: center;
+margin: 120px;
+text-align: center;
+border-radius: 60px;  
 }
 
 </style>
